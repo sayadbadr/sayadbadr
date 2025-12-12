@@ -65,5 +65,6 @@ My motto be like :
 ## 📬 Contact
 
 Feel free to reach out or just follow the journey.  
+email: sayadbadr6@gmail.com
 ```
 
