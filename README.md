@@ -71,6 +71,5 @@ Feel free to reach out or just follow the journey.
 - **E-mail: sayadbadr6@gmail.com**
 - [Facebook](https://www.facebook.com/sayad.badr.3)
 - [linkedin](https://www.linkedin.com/badr-sayad-21b516319)
-```
 
 </details>
