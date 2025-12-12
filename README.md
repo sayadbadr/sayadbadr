@@ -65,7 +65,7 @@ My motto be like :
 ## 📬 Contact
 
 Feel free to reach out or just follow the journey.  
-- **E-mail: sayadbadr6@gmail.com **
+- **E-mail: sayadbadr6@gmail.com**
 - [Facebook](https://www.facebook.com/sayad.badr.3)
 - [linkdin]()
 ```
