@@ -1,6 +1,6 @@
 # 👋 Welcome, Visitor  
 
-**System Notice:** Unauthorized access is suspicious… but you have my accept 😉
+**System Notice:** Unauthorized access is suspicious… but you have my low guest token 😉
 
 
 ```
