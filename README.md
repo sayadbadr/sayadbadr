@@ -1,6 +1,6 @@
 # 👋 Welcome, Visitor  
 
-**System Notice:** Unauthorized access is suspicious… but I'll accept just for you. 😄  
+**System Notice:** Unauthorized access is suspicious… but you have my accept 😉
 
 
 ```
@@ -11,7 +11,7 @@
 ███████╗╚██████╔╝╚███╔███╔╝    ██████╔╝   ██║      ██║   ███████╗███████║
 ╚══════╝ ╚═════╝  ╚══╝╚══╝     ╚═════╝    ╚═╝      ╚═╝   ╚══════╝╚══════╝
 ```
-> I'm a **Cybersecurity Software Developer, self learning**. I am currently developing my skills in **C programming** and **penetration testing**, building my foundations from scratch with a focus on understanding how systems actually work from the inside, in memory, and under stress.
+> I'm a **beginner, Cybersecurity Software Developer, self learning**. I am currently developing my skills in **C programming, assembly** and **penetration testing skills**, building my foundations from scratch with a focus on understanding how systems actually work from the inside, in memory, and under stress.
 ---
 <details>
   
